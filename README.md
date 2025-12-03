@@ -1,5 +1,11 @@
 # 🌊 AVATAR: The Game Water Editor
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/JasperZebra/AVATAR-The-Game-Water-Editor?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66)
+![Total Downloads](https://img.shields.io/github/downloads/JasperZebra/AVATAR-The-Game-Water-Editor/total?style=for-the-badge&logo=github&color=00ffff&logoColor=white&labelColor=1a4d66) 
+![Platform](https://img.shields.io/badge/platform-windows-00ffff?style=for-the-badge&logo=windows&logoColor=00ffff&labelColor=1a4d66)
+![Made for](https://img.shields.io/badge/made%20for-2009_AVATAR:_The_Game-00ffff?style=for-the-badge&logo=gamepad&logoColor=00ffff&labelColor=1a4d66) 
+![Tool Type](https://img.shields.io/badge/type-water%20editor-00ffff?style=for-the-badge&logo=droplet&logoColor=00ffff&labelColor=1a4d66)
+
 A tool for adding and managing water blocks in `.csdat` sector files. Perfect for game modders and level designers working with sector-based terrain systems.
 
 ## ✨ Features
@@ -19,6 +25,7 @@ A tool for adding and managing water blocks in `.csdat` sector files. Perfect fo
 - **🎨 Modern Dark UI** - Clean, professional interface with color-coded sector states
 
 ## 📸 Screenshot
+
 <img width="1204" height="752" alt="image" src="https://github.com/user-attachments/assets/3275fd72-2780-45da-b8b6-9fab8fb6579d" />
 
 ## 📖 How to Use
